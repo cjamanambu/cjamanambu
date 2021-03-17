@@ -1,5 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
----
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 <a href="https://twitter.com/cjamanambu" target="_blank">
   <img align="left" alt="CJ Amanambu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -8,6 +8,10 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cjamanambu.cjamanambu)
+---
+
+Hi, I'm CJ Amanambu, a driven and effective self-learner with a huge passion for technology and problem-solving. I have learnt to think of solutions first as an ideology not as software. Consequently, my interests currently lie in delivering highly accessible software with shared pain and responsibility using DevOps principles.
+
 <!--
 **cjamanambu/cjamanambu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
