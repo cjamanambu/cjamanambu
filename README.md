@@ -1,6 +1,13 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+---
+<a href="https://twitter.com/cjamanambu" target="_blank">
+  <img align="left" alt="CJ Amanambu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/cjamanambu/" target="_blank">
+  <img align="left" alt="CJ Amanambu | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=cjamanambu.cjamanambu)
 <!--
 **cjamanambu/cjamanambu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
