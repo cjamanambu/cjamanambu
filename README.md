@@ -11,7 +11,7 @@
 
 ---
 
-Hi, I'm CJ Amanambu, a driven and effective self-learner with a huge passion for technology and problem-solving. I have learnt to think of solutions first as an ideology not as software. Consequently, my interests currently lie in delivering highly accessible software with shared pain and responsibility using DevOps principles.
+Hi, I'm CJ Amanambu, a driven and effective self-learner with a huge passion for technology and problem-solving. I have learnt to think of solutions first as an ideology not as software. Consequently, my interests currently lie in delivering highly accessible web solutions with shared pain and responsibility using DevOps principles.
 
 Personally, I want to:
 
